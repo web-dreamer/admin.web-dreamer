@@ -3,6 +3,6 @@ node_modules
 *.swp
 npm-debug.log
 browserify-cache.json
-bundle.*
-style.css
+#bundle.*
+#style.css
 package-lock.json
